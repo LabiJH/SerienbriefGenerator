@@ -1,0 +1,33 @@
+<Fahrzeuge>
+    <Fahrzeug>
+        <Fahrzeugtyp>PKW</Fahrzeugtyp>
+        <Hersteller>Skoda</Hersteller>
+        <Fahrzeugbezeichnung>Fabia</Fahrzeugbezeichnung>
+        <Leistung>62</Leistung>
+        <Verkaufspreis>6000</Verkaufspreis>
+    </Fahrzeug>
+
+    <Fahrzeug>
+        <Fahrzeugtyp>PKW</Fahrzeugtyp>
+        <Hersteller>Ferrari</Hersteller>
+        <Fahrzeugbezeichnung>TORRO</Fahrzeugbezeichnung>
+        <Leistung>300</Leistung>
+        <Verkaufspreis>70000</Verkaufspreis>
+    </Fahrzeug>
+
+    <Fahrzeug>
+        <Fahrzeugtyp>PKW</Fahrzeugtyp>
+        <Hersteller>BMW</Hersteller>
+        <Fahrzeugbezeichnung>E3</Fahrzeugbezeichnung>
+        <Leistung>220</Leistung>
+        <Verkaufspreis>23000</Verkaufspreis>
+    </Fahrzeug>
+
+    <Fahrzeug>
+        <Fahrzeugtyp>PKW</Fahrzeugtyp>
+        <Hersteller>Audi</Hersteller>
+        <Fahrzeugbezeichnung>A4</Fahrzeugbezeichnung>
+        <Leistung>134</Leistung>
+        <Verkaufspreis>15000</Verkaufspreis>
+    </Fahrzeug>
+</Fahrzeuge>
